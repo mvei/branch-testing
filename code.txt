@@ -1,5 +1,5 @@
 Example one line 1 (changed)
-Initial line 2
+Example two line 2 (changed)
 Initial line 3
 Initial line 4
 Initial line 5
